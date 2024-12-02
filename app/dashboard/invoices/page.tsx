@@ -39,5 +39,5 @@ export default async function Page(props: {
 }
 
 export const metadata: Metadata = {
-  title: 'Invoices',
+  title: 'Invoices | Acme Dashboard',
 };
